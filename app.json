@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Handwerkerapp",
+    "slug": "handwerkerapp",
+    "scheme": "handwerkerapp",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.bektasevicminel.handwerkerapp"
+    }
+  }
+}
